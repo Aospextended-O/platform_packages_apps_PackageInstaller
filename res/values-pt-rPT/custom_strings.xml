@@ -16,4 +16,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Version checks -->
+  <string name="from_version">Da versão</string>
+  <string name="to_version">para</string>
+  <string name="new_package_version">Versão</string>
 </resources>
