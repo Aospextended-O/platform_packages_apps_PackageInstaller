@@ -16,4 +16,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Version checks -->
+  <string name="from_version">ಆವೃತ್ತಿಯಿಂದ</string>
+  <string name="to_version">ಗೆ</string>
+  <string name="new_package_version">ಆವೃತ್ತಿ</string>
 </resources>
